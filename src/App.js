@@ -1,4 +1,3 @@
-import './App.scss';
 import { useState, useEffect } from 'react';
 import fetchOrders from './Utils.js/fetchOrder.js'
 import OrderTable from './Components/OrderTable';
